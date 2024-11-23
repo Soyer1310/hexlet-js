@@ -1,0 +1,12 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "description": "This is just a tast",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artem Melnikov",
+  "license": "ISC"
+}
